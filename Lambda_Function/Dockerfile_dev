@@ -1,0 +1,14 @@
+FROM continuumio/anaconda3
+RUN apt-get update
+RUN apt-get -y install curl dirmngr apt-transport-https lsb-release ca-certificates vim htop
+RUN apt-get update && \
+  apt-get install -y \
+  g++ \
+  make \
+  cmake \
+  unzip \
+  libcurl4-openssl-dev \
+  autoconf \
+  libtool \
+  libcurl4-openssl-dev
+RUN pip install awslambdaric openai jupyterthemes ipykernel jupyter transformers xlrd openpyxl kneed  pandas numpy ray pymongo nltk thefuzz langchain tiktoken layoutparser nltk
