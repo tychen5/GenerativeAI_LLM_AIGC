@@ -1,4 +1,4 @@
-# A Generative Model for 5D Points
+# Generative AI Models for 5D Points
 
 ## Project Description
 * This repository contains the code and resources for the “Colored Pi Generator” project.
