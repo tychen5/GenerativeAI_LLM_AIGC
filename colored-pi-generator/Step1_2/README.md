@@ -1,4 +1,4 @@
-# A Generative Model for 5D Points Project
+# Create Generative AI Models for 5D Points Project
 ## Step 1, Data Preparation: Load and Preprocess the Data
 The first step is to prepare the data. This involves loading the data from the provided sources and preprocessing it to create a suitable dataset for our model.
 The data preparation step involves loading the x, y coordinates and the RGB values, combining them into a 5-dimensional dataset to prepare it for training the model.
