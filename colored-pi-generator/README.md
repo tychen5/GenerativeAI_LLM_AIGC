@@ -116,5 +116,5 @@ Another way to validate the model is to compare the histograms of the generated 
 
 Validate the model by computing statistical measures (like mean and variance) of the original and generated points and comparing them. If the statistical measures are similar, this indicates that the generated points come from the same distribution as the original points.
 
-## Corresponding organized Colab notebooks
-[link](https://drive.google.com/drive/folders/120DSzBZVsXIfzuwO9hHI-EjFtNPfma9x?usp=sharing)
+## Corresponding organized Colab notebooks:
+* [link](https://drive.google.com/drive/folders/120DSzBZVsXIfzuwO9hHI-EjFtNPfma9x?usp=sharing)
