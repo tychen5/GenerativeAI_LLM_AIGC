@@ -1,4 +1,4 @@
-# A Generative Model for 5D Points
+# Create Generative Models for 5D Points Project
 
 ## Step 3, Define / Build the Model
 
