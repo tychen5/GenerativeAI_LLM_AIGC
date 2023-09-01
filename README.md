@@ -1,5 +1,9 @@
 # Generative AI / AIGC / LLM Project & Research
-Large Language Model Project &amp; Research
+## This repo include 2 category of projects
+  1. Chatbot/Agent LLMs
+     * Refer to `Lambda_Function` , `chatbase_ecr` , `langchain_ecr` and `revgpt_lambda_ecr` folders 
+  2. Image Generative Models
+     * Refer to `colored-pi-generator` folder
 
 
 * **Disclaimers**:
